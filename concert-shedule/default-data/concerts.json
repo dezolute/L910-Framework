@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Rock Legends Festival 2025",
+    "artistId": 1,
+    "venue": "Olympic Stadium",
+    "date": "2025-07-15T19:00:00.000Z",
+    "price": 2500,
+    "availableTickets": 45000,
+    "isSoldOut": false,
+    "genres": [
+      "Rock",
+      "Hard Rock",
+      "Metal"
+    ],
+    "description": "Грандиозный рок-фестиваль с легендарными исполнителями"
+  },
+  {
+    "id": 2,
+    "title": "Jazz Night in Moscow",
+    "artistId": 2,
+    "venue": "Crocus City Hall",
+    "date": "2025-06-20T20:30:00.000Z",
+    "price": 1800,
+    "availableTickets": 0,
+    "isSoldOut": true,
+    "genres": [
+      "Jazz",
+      "Blues"
+    ],
+    "description": "Вечер джазовой музыки с мировыми звездами"
+  },
+  {
+    "id": 3,
+    "title": "Electronic Summer",
+    "artistId": 3,
+    "venue": "Green Theatre",
+    "date": "2025-08-05T21:00:00.000Z",
+    "price": 3200,
+    "availableTickets": 12000,
+    "isSoldOut": false,
+    "genres": [
+      "Electronic",
+      "Techno",
+      "House"
+    ],
+    "description": "Летняя электронная вечеринка под открытым небом"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "GlowLux",
+    "country": "Франция",
+    "foundedYear": 1985,
+    "isOrganic": false,
+    "hasCrueltyFree": true,
+    "certifications": ["ISO 9001", "GMP", "Dermatologically tested"],
+    "productCount": 156,
+    "website": "https://glowlux.fr",
+    "rating": 4.7,
+    "description": "Премиальный французский бренд профессиональной косметики с научным подходом"
+  },
+  {
+    "id": 2,
+    "name": "BeautyPro",
+    "country": "Южная Корея",
+    "foundedYear": 2008,
+    "isOrganic": false,
+    "hasCrueltyFree": true,
+    "certifications": ["KFDA", "Cruelty-Free", "Vegan"],
+    "productCount": 89,
+    "website": "https://beautypro.kr",
+    "rating": 4.8,
+    "description": "Инновационная корейская косметика с передовыми технологиями K-beauty"
+  },
+  {
+    "id": 3,
+    "name": "Nature's Secret",
+    "country": "Германия",
+    "foundedYear": 2012,
+    "isOrganic": true,
+    "hasCrueltyFree": true,
+    "certifications": ["ECOCERT", "COSMOS", "Vegan Society", "Cruelty-Free"],
+    "productCount": 67,
+    "website": "https://naturessecret.de",
+    "rating": 4.6,
+    "description": "100% натуральная и органическая косметика из Германии"
+  }
+]

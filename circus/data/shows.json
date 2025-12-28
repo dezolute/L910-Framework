@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Магия цирка",
+    "performerId": 1,
+    "showDate": "2025-08-15T19:00:00.000Z",
+    "duration": 120,
+    "price": 1500,
+    "availableSeats": 350,
+    "isSoldOut": false,
+    "categories": ["Акробатика", "Иллюзии", "Жонглирование"],
+    "ageRestriction": 6,
+    "hasAnimals": true,
+    "rating": 4.8,
+    "description": "Захватывающее представление с участием лучших артистов и дрессированных животных"
+  },
+  {
+    "id": 2,
+    "title": "Воздушные гимнасты",
+    "performerId": 2,
+    "showDate": "2025-09-20T18:30:00.000Z",
+    "duration": 90,
+    "price": 1800,
+    "availableSeats": 0,
+    "isSoldOut": true,
+    "categories": ["Воздушная гимнастика", "Акробатика"],
+    "ageRestriction": 0,
+    "hasAnimals": false,
+    "rating": 4.9,
+    "description": "Головокружительные номера на трапеции и воздушных полотнах"
+  },
+  {
+    "id": 3,
+    "title": "Клоунада и смех",
+    "performerId": 3,
+    "showDate": "2025-07-10T16:00:00.000Z",
+    "duration": 75,
+    "price": 1200,
+    "availableSeats": 280,
+    "isSoldOut": false,
+    "categories": ["Клоунада", "Пантомима", "Жонглирование"],
+    "ageRestriction": 3,
+    "hasAnimals": false,
+    "rating": 4.7,
+    "description": "Веселое семейное представление с участием лучших клоунов"
+  },
+  {
+    "id": 4,
+    "title": "Укротители хищников",
+    "performerId": 4,
+    "showDate": "2025-10-05T20:00:00.000Z",
+    "duration": 100,
+    "price": 2000,
+    "availableSeats": 400,
+    "isSoldOut": false,
+    "categories": ["Дрессировка", "Хищники"],
+    "ageRestriction": 10,
+    "hasAnimals": true,
+    "rating": 4.6,
+    "description": "Опасные номера с тиграми и львами от мастеров дрессуры"
+  }
+]

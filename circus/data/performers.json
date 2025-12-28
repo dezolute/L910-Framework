@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Александр Великолепный",
+    "specialty": "Иллюзионист",
+    "country": "Россия",
+    "experienceYears": 15,
+    "isActive": true,
+    "hasInternationalAwards": true,
+    "awards": ["Золотой клоун Монте-Карло", "Мастер магии", "Лучший иллюзионист года"],
+    "teamSize": 5,
+    "salary": 350000,
+    "rating": 4.9,
+    "biography": "Признанный мастер иллюзий с мировым именем, выступает на лучших аренах мира"
+  },
+  {
+    "id": 2,
+    "name": "Екатерина Воздушная",
+    "specialty": "Воздушная гимнастка",
+    "country": "Украина",
+    "experienceYears": 8,
+    "isActive": true,
+    "hasInternationalAwards": true,
+    "awards": ["Серебро на Фестивале цирков в Париже", "Лучший номер года"],
+    "teamSize": 3,
+    "salary": 280000,
+    "rating": 4.8,
+    "biography": "Виртуозная воздушная гимнастка, покоряющая зрителей изяществом и смелостью"
+  },
+  {
+    "id": 3,
+    "name": "Trio Смехачи",
+    "specialty": "Клоуны",
+    "country": "Франция",
+    "experienceYears": 12,
+    "isActive": true,
+    "hasInternationalAwards": false,
+    "awards": ["Приз зрительских симпатий", "Лучшая клоунада"],
+    "teamSize": 3,
+    "salary": 220000,
+    "rating": 4.7,
+    "biography": "Легендарное трио клоунов, дарящее радость детям и взрослым уже более десяти лет"
+  },
+  {
+    "id": 4,
+    "name": "Иван Бесстрашный",
+    "specialty": "Укротитель",
+    "country": "Россия",
+    "experienceYears": 20,
+    "isActive": true,
+    "hasInternationalAwards": true,
+    "awards": ["Мастер дрессуры", "Золотой лев", "Герой цирка России"],
+    "teamSize": 8,
+    "salary": 450000,
+    "rating": 4.9,
+    "biography": "Потомственный укротитель в третьем поколении, работает с самыми опасными хищниками"
+  }
+]
