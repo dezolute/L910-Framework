@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Paradise Resort & Spa",
+    "country": "Таиланд",
+    "city": "Пхукет",
+    "address": "123 Beach Road, Patong",
+    "stars": 5,
+    "hasPool": true,
+    "hasWifi": true,
+    "roomCount": 250,
+    "amenities": ["Бассейн", "Спа", "Ресторан", "Фитнес-центр", "Пляж"],
+    "pricePerNight": 8500,
+    "rating": 4.8,
+    "description": "Роскошный курортный отель на берегу Андаманского моря"
+  },
+  {
+    "id": 2,
+    "name": "Grand Hotel Roma",
+    "country": "Италия",
+    "city": "Рим",
+    "address": "Via del Corso 45, Roma",
+    "stars": 4,
+    "hasPool": false,
+    "hasWifi": true,
+    "roomCount": 120,
+    "amenities": ["Ресторан", "Бар", "Конференц-зал", "Парковка"],
+    "pricePerNight": 12000,
+    "rating": 4.6,
+    "description": "Исторический отель в центре Рима рядом с основными достопримечательностями"
+  },
+  {
+    "id": 3,
+    "name": "Mountain Peak Hotel",
+    "country": "Россия",
+    "city": "Сочи",
+    "address": "Красная Поляна, ул. Горная 10",
+    "stars": 4,
+    "hasPool": true,
+    "hasWifi": true,
+    "roomCount": 180,
+    "amenities": ["Бассейн", "Сауна", "Ресторан", "Прокат снаряжения", "Ski-in/Ski-out"],
+    "pricePerNight": 9000,
+    "rating": 4.7,
+    "description": "Современный горнолыжный отель с прямым выходом на склоны"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Экзотический Таиланд",
+    "destination": "Пхукет, Таиланд",
+    "hotelId": 1,
+    "departureDate": "2025-08-15T10:00:00.000Z",
+    "returnDate": "2025-08-25T18:00:00.000Z",
+    "price": 85000,
+    "availableSeats": 15,
+    "isAvailable": true,
+    "includedServices": ["Перелет", "Трансфер", "Проживание", "Завтраки"],
+    "rating": 4.8,
+    "duration": 10,
+    "description": "Незабываемый отдых на белоснежных пляжах Пхукета с экскурсиями по островам"
+  },
+  {
+    "id": 2,
+    "title": "Романтическая Италия",
+    "destination": "Рим-Флоренция-Венеция, Италия",
+    "hotelId": 2,
+    "departureDate": "2025-09-10T08:30:00.000Z",
+    "returnDate": "2025-09-17T20:00:00.000Z",
+    "price": 120000,
+    "availableSeats": 0,
+    "isAvailable": false,
+    "includedServices": ["Перелет", "Проживание", "Экскурсии", "Завтраки", "Ужины"],
+    "rating": 4.9,
+    "duration": 7,
+    "description": "Культурно-исторический тур по самым красивым городам Италии"
+  },
+  {
+    "id": 3,
+    "title": "Горнолыжный курорт",
+    "destination": "Красная Поляна, Сочи",
+    "hotelId": 3,
+    "departureDate": "2025-12-20T06:00:00.000Z",
+    "returnDate": "2025-12-27T22:00:00.000Z",
+    "price": 65000,
+    "availableSeats": 20,
+    "isAvailable": true,
+    "includedServices": ["Трансфер", "Проживание", "Ски-пасс", "Завтраки"],
+    "rating": 4.7,
+    "duration": 7,
+    "description": "Активный отдых на лучшем горнолыжном курорте России"
+  }
+]

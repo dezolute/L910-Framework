@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "The Rocking Legends",
+    "country": "United Kingdom",
+    "genre": "Rock",
+    "foundedYear": 1975,
+    "isActive": true,
+    "memberCount": 4,
+    "albums": [
+      "Dark Side",
+      "The Wall",
+      "Highway to Hell"
+    ],
+    "biography": "Легендарная рок-группа с многолетней историей"
+  },
+  {
+    "id": 2,
+    "name": "Miles Davis Tribute Band",
+    "country": "United States",
+    "genre": "Jazz",
+    "foundedYear": 2010,
+    "isActive": true,
+    "memberCount": 6,
+    "albums": [
+      "Kind of Blue Revisited",
+      "Bitches Brew Live"
+    ],
+    "biography": "Трибьют-группа, исполняющая классические джазовые композиции"
+  },
+  {
+    "id": 3,
+    "name": "DJ Electronix",
+    "country": "Germany",
+    "genre": "Electronic",
+    "foundedYear": 2015,
+    "isActive": true,
+    "memberCount": 1,
+    "albums": [
+      "Digital Dreams",
+      "Binary Beats",
+      "Synthetic Souls"
+    ],
+    "biography": "Один из ведущих диджеев электронной сцены"
+  }
+]
